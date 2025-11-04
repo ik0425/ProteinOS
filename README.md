@@ -2,7 +2,7 @@
 
 An interactive educational platform for learning about protein synthesis through immersive visualizations and engaging content.
 
-[Live Demo](https://proteinos.vercel.app/)
+[Live Demo](https://protein-os.vercel.app/)
 
 ## About the Project
 
@@ -89,6 +89,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-Developed by Kabilesh C
+Developed by Ishita K
 
 Special thanks to all the educators and scientific resources that made this educational tool possible.
+
